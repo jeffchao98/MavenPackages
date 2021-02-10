@@ -3,8 +3,8 @@
   <groupId>com.scaine</groupId>
   <artifactId>bintray-test-prj</artifactId>
   <versioning>
-    <latest>0.4</latest>
-    <release>0.4</release>
+    <latest>0.5</latest>
+    <release>0.5</release>
     <versions>
       <version>0.1</version>
     </versions>
@@ -17,6 +17,9 @@
     <versions>
       <version>0.4</version>
     </versions>
-    <lastUpdated>20210210105527</lastUpdated>
+    <versions>
+      <version>0.5</version>
+    </versions>
+    <lastUpdated>20210210110226</lastUpdated>
   </versioning>
 </metadata>
