@@ -2,6 +2,7 @@
 <metadata>
   <groupId>com.scaine</groupId>
   <artifactId>bintray-test-prj</artifactId>
+  <version>0.5</version>
   <versioning>
     <latest>0.5</latest>
     <release>0.5</release>
