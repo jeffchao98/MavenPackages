@@ -1,2 +1,2 @@
-# ScaineMavenRepos
+# MavenPackages
 Personal private maven storage
