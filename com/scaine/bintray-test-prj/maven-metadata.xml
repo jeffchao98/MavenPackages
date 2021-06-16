@@ -21,6 +21,9 @@
     <versions>
       <version>0.5</version>
     </versions>
-    <lastUpdated>20210210110226</lastUpdated>
+    <versions>
+      <version>0.7</version>
+    </versions>
+    <lastUpdated>20210616102526</lastUpdated>
   </versioning>
 </metadata>
